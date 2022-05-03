@@ -8,6 +8,8 @@ r = sr.Recognizer()
 
 # Function that converts the text to speech
 
+#def hello():
+    #print("Hello")
 
 def SpeakText(command):
     # Initialize the engine
